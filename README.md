@@ -31,3 +31,4 @@ A value is trying to be set on a copy of a slice from a DataFrame
 
 * which means that you have to use a lower version of python then the warnning will disappear. 
 # You Can also use the jupter notebook file if you directly put it in the jupyter.
+After that you can have a full view of the bloking of the code.
