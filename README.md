@@ -1,12 +1,7 @@
-# CPS-3320-Final-Project
+# CPS-3320-Final-Project W02 Group1
  Final NLP Project Sentimental Analysis
- In this project it totally has two approaches one is using Logistic Regression, 
- another one is the deep learning with the help of Tensorflow
+ In this project it totally has two approaches one is using Logistic Regression(by Bilu yao 1098213), this approach is initially used for generating the dict for the possiviteness of the words, but the accuarcy is not that accuracy in this approach, so that we decide to implements the next method with the help of neural network deep leaning(Chen zhiyang 1098489) with the help of Tensoflow.
 # You Can find the data in the Data folder, totally two types sqlite and csv
-
-# Here is the guide to run the ........ file
-
-
 
 # Here is the guide to run the python-sentilmental-analysis-deep-learning.py file
 
@@ -34,5 +29,13 @@ C:\Users\27671\PycharmProjects\pythonProject5\3220Project.py:28: SettingWithCopy
 A value is trying to be set on a copy of a slice from a DataFrame
 
 * which means that you have to use a lower version of python then the warnning will disappear. 
-# You Can also use the jupter notebook file if you directly put it in the jupyter.
-After that you can have a full view of the bloking of the code.
+# You Can also use the jupter-deep-learning file if you directly put it directly in the jupyter.
+This jupyter version is just a sample version that for testing the epoches and batcches, you can see the result after putting it in jupyter notebook. After that you can have a full view of the bloking of the code.
+
+# Here is the guide to run the jupyter-logistic-regression file:
+* Donwload sklearn extension in python by pip install sklearn
+* Download nltk extension in python by pip install nltk
+put the file directly in jupyter then it works. 
+
+
+
