@@ -3,7 +3,7 @@
  In this project it totally has two approaches one is using Logistic Regression, 
  another one is the deep learning with the help of Tensorflow
 # You Can find the data in the Data folder, totally two types sqlite and csv
-Two methods use two different method.
+
 # Here is the guide to run the ........ file
 
 
