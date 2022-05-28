@@ -1,6 +1,7 @@
 # CPS-3320-Final-Project
 Final NLP Project Sentimental Analysis
-# In this project it totally has two approaches one is using Logistic Regression, anather one is the deep learning with the help of Tensorflow
+In this project it totally has two approaches one is using Logistic Regression, 
+another one is the deep learning with the help of Tensorflow
 
 
 
