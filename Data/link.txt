@@ -1,2 +1,0 @@
-Because of the github policy, here is the link for the data 
-https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/download
